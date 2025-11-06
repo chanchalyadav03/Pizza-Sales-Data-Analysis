@@ -76,50 +76,41 @@ Each chart helps interpret the data from a business perspective.
 - **Chart Type:** Horizontal Bar Chart  
 - **Insight:** Identifies least popular pizzas like *Brie Carre* and *Spinach Supreme*.
 
-  📈 Dashboard Highlights
+ ## 📈 Dashboard Highlights
 
-Built in Excel, the dashboard visualizes:
+Built in **Excel**, the dashboard visualizes:
 
-Total Revenue: $817,860
+- **Total Revenue:** $817,860  
+- **Average Order Value:** $38.31  
+- **Total Pizzas Sold:** 49,574  
+- **Total Orders:** 21,350  
+- **Avg Pizzas per Order:** 2.32  
 
-Average Order Value: $38.31
+---
 
-Total Pizzas Sold: 49,574
+### 🔍 Key Insights
+- Classic & Large pizzas contributed nearly **46% of total revenue**.  
+- Weekend evenings (Friday & Saturday) saw the **highest order volumes**.  
+- **Top Sellers:** Classic Deluxe, Barbecue Chicken, Hawaiian Pizza.  
+- **Lowest Seller:** Brie Carre Pizza.  
 
-Total Orders: 21,350
+---
 
-Avg Pizzas per Order: 2.32
+## 🚀 How to Use
 
-🔍 Key Insights
+1. Import the dataset (`pizza_sales.csv`) into **MySQL**.  
+2. Run SQL queries from **Pizza_Sales_SQL_Queries.docx** to generate KPIs.  
+3. Build **pivot tables and charts** in Excel to visualize the data.  
+4. Use filters to explore **time-based and category-based sales performance**.  
 
-Classic & Large pizzas contributed nearly 46% of total revenue.
+---
 
-Weekend evenings (Friday & Saturday) saw the highest order volumes.
+## 🧾 Key Learnings
+- Applying SQL for **business analytics** and KPI computation.  
+- Creating **interactive dashboards** in Excel for sales visualization.  
+- Extracting **data-driven insights** for marketing and operations.  
+- Understanding **customer behavior** through order time and product preference.  
 
-Top Sellers: Classic Deluxe, Barbecue Chicken, Hawaiian Pizza.
-
-Lowest Seller: Brie Carre Pizza.
-
-
-🚀 How to Use
-
-Import the dataset (pizza_sales.csv) into MySQL.
-
-Run SQL queries from Pizza_Sales_SQL_Queries.docx to generate KPIs.
-
-Build pivot tables and charts in Excel to visualize the data.
-
-Use filters to explore time-based and category-based sales performance.
-
-🧾 Key Learnings
-
-Applying SQL for business analytics and KPI computation.
-
-Creating interactive dashboards in Excel for sales visualization.
-
-Extracting data-driven insights for marketing and operations.
-
-Understanding customer behavior through order time and product preference.
 
 ---
 
