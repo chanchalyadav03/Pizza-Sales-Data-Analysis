@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Data Analysis
 
 **Duration:** Aug 2025 – Oct 2025  
-**Tools Used:** MySQL, POWERBI
+**Tools Used:** MySQL, Power BI
 
 ---
 
