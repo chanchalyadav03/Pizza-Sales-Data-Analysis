@@ -1,19 +1,19 @@
 # 🍕 Pizza Sales Data Analysis
 
 **Duration:** Aug 2025 – Oct 2025  
-**Tools Used:** MySQL, Excel (Dashboard, Pivot Charts), Power Query  
+**Tools Used:** MySQL, POWERBI
 
 ---
 
 ## 📘 Project Overview
 This project focuses on analyzing pizza sales data to derive key business insights.  
-Using **SQL** for data querying and **Excel** for visualization, the analysis provides a complete picture of sales performance, customer preferences, and order behavior.
+Using **SQL** for data querying and **POWER BI** for visualization, the analysis provides a complete picture of sales performance, customer preferences, and order behavior.
 
 ---
 
 ## 🧩 Problem Statement
 The objective of this project is to analyze key performance indicators (KPIs) and visualize sales patterns for a pizza chain.  
-By combining SQL analysis and Excel dashboards, we aim to improve business decision-making through data-driven insights.
+By combining SQL analysis and Power BI dashboards, we aim to improve business decision-making through data-driven insights.
 
 ---
 
@@ -78,7 +78,7 @@ Each chart helps interpret the data from a business perspective.
 
  ## 📈 Dashboard Highlights
 
-Built in **Excel**, the dashboard visualizes:
+Built in **Power BI**, the dashboard visualizes:
 
 - **Total Revenue:** $817,860  
 - **Average Order Value:** $38.31  
@@ -100,14 +100,14 @@ Built in **Excel**, the dashboard visualizes:
 
 1. Import the dataset (`pizza_sales.csv`) into **MySQL**.  
 2. Run SQL queries from **Pizza_Sales_SQL_Queries.docx** to generate KPIs.  
-3. Build **pivot tables and charts** in Excel to visualize the data.  
+3. Build tables, charts and slicer in Power BI to visualize the data.  
 4. Use filters to explore **time-based and category-based sales performance**.  
 
 ---
 
 ## 🧾 Key Learnings
 - Applying SQL for **business analytics** and KPI computation.  
-- Creating **interactive dashboards** in Excel for sales visualization.  
+- Creating **interactive dashboards** in Power BI for sales visualization.  
 - Extracting **data-driven insights** for marketing and operations.  
 - Understanding **customer behavior** through order time and product preference.  
 
